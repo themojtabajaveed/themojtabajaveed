@@ -149,7 +149,7 @@ I'm a **B.Tech Computer Science graduate** specializing in **Artificial Intellig
 ### 🤝 Multi-Agent Workflow Automation System
 **🎯 Final Year Thesis Project | Production-Ready AI System**
 
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/multi-agent-system)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/themojtabajaveed/multi-agent-system)
 [![Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://your-demo-link.com)
 
 **The Problem**: Complex workflows in finance and legal sectors require coordinated execution of multiple specialized tasks—document analysis, data extraction, compliance checking, and report generation. Manual execution is slow, error-prone, and expensive.
@@ -220,8 +220,8 @@ I'm a **B.Tech Computer Science graduate** specializing in **Artificial Intellig
 
 <div align="center">
 
-<a href="https://github.com/yourusername">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+<a href="https://github.com/themojtabajaveed">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=themojtabajaveed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themojtabajaveed&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
 </a>
 
@@ -338,7 +338,7 @@ print(mojtaba.current_focus())
 Whether you need an intelligent chatbot, a multi-agent automation system, a RAG-powered knowledge base, or custom LLM integration—I can architect, build, and deploy it.
 
 [![Email Me](https://img.shields.io/badge/Email-mojtaba.javeed@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mojtaba.javeed@gmail.com)
-[![Schedule a Call](https://img.shields.io/badge/Schedule_Call-Calendly-0066FF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/yourlink)
+
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+91_7887651506-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917887651506)
 
 **💰 Competitive Rates | 🚀 Fast Turnaround | ✅ Production-Quality Code**
