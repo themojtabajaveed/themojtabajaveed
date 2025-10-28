@@ -184,7 +184,7 @@ I'm a **B.Tech Computer Science graduate** specializing in **Artificial Intellig
 ### ⚖️ AI-Powered Legal Assistant System
 **🏆 Smart India Hackathon Winner (College Level)**
 
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/legal-assistant)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/themojtabajaveed/legal-assistant)
 
 **The Challenge**: Legal professionals spend hours researching case laws, statutes, and precedents. Law students struggle to understand complex legal language.
 
@@ -222,20 +222,20 @@ I'm a **B.Tech Computer Science graduate** specializing in **Artificial Intellig
 
 <a href="https://github.com/yourusername">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themojtabajaveed&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
 </a>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=themojtabajaveed&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=themojtabajaveed&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -359,7 +359,7 @@ Whether you need an intelligent chatbot, a multi-agent automation system, a RAG-
 
 <div align="center">
 
-[![Mojtaba's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mojtaba's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=themojtabajaveed&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -369,7 +369,7 @@ Whether you need an intelligent chatbot, a multi-agent automation system, a RAG-
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=themojtabajaveed&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -386,16 +386,16 @@ Whether you need an intelligent chatbot, a multi-agent automation system, a RAG-
 
 <div align="center">
 
-<a href="https://twitter.com/themojtabajaveed" target="_blank">
+<a href="https://twitter.com/mojtabajaveed" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
 </a>
-<a href="https://linkedin.com/in/mojtabajaveed" target="_blank">
+<a href="https://linkedin.com/in/themojtabajaveed" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:mojtaba.javeed@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-<a href="https://github.com/yourusername" target="_blank">
+<a href="https://github.com/themojtabajaveed" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 <a href="https://your-portfolio.com" target="_blank">
