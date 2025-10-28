@@ -2,21 +2,13 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI+Engineer+%7C+Full-Stack+Developer;Specializing+in+GenAI+%26+Multi-Agent+Systems;Building+the+Future+with+LLMs+%26+Diffusion+Models)](https://git.io/typing-svg)
-
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=850&height=120&lines=AI+Engineer+%7C+Full-Stack+Developer;Specializing+in+GenAI+%26+Multi-Agent+Systems;Building+the+Future+with+LLMs+%26+Diffusion+Models)](https://git.io/typing-svg)
 
 </div>
 
-
-
-
-
-
+---
 
 <div align="center">
-
 
 [![Twitter Follow](https://img.shields.io/badge/Twitter-@mojtabajaveed-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mojtabajaveed)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-themojtabajaveed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/themojtabajaveed)
@@ -24,6 +16,8 @@
 [![Location](https://img.shields.io/badge/Location-Aurangabad%2C%20Maharashtra-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Aurangabad,+Maharashtra)
 
 </div>
+
+---
 
 ---
 
