@@ -8,8 +8,8 @@
 
 <div align="center">
   
-[![Twitter Follow](https://img.shields.io/badge/Twitter-@mojtabajaveed-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/themojtabajaveed)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-themojtabajaveed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mojtabajaveed)
+[![Twitter Follow](https://img.shields.io/badge/Twitter-@mojtabajaveed-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mojtabajaveed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-themojtabajaveed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/themojtabajaveed)
 [![Email](https://img.shields.io/badge/Email-mojtaba.javeed@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mojtaba.javeed@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Aurangabad%2C%20Maharashtra-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Aurangabad,+Maharashtra)
 
