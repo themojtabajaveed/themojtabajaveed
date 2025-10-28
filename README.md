@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mojtaba Siddiqui
+# 👋 Hi, I'm Mojtaba Javeed Siddiqui
 
 <div align="center">
   
