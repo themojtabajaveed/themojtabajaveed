@@ -402,7 +402,7 @@ Whether you need an intelligent chatbot, a multi-agent automation system, a RAG-
 <a href="https://github.com/themojtabajaveed" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-<a href="https://your-portfolio.com" target="_blank">
+<a href="https://themojtabajaveed.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
 </a>
 
@@ -426,6 +426,6 @@ Whether you need an intelligent chatbot, a multi-agent automation system, a RAG-
 
 <div align="center">
 
-**Last Updated**: October 2025 | **Made with** ❤️ **and** 🤖 **AI**
+**Last Updated**: October 2025 | **Made with** ❤️ by Me
 
 </div>
