@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=850&height=120&lines=AI+Engineer+%7C+Full-Stack+Developer;Specializing+in+GenAI+%26+Multi-Agent+Systems;Building+the+Future+with+LLMs+%26+Diffusion+Models)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=850&height=120&lines=AI+Automation+Engineer;Building+AI+Agents+for+UK+Accountancy+Practices;Flagship:+Missing-Docs+Agent)](https://git.io/typing-svg)
 
 </div>
 
@@ -25,9 +25,9 @@
 
 > *"Building AI systems that don't just think—they collaborate, create, and solve."*
 
-I'm a **B.Tech Computer Science graduate** specializing in **Artificial Intelligence & Machine Learning** from BATU University (DIEMS). With deep expertise in **Generative AI**, **Multi-Agent Systems**, and **Full-Stack Development**, I architect intelligent solutions that bridge cutting-edge research with production-ready applications.
+I'm an **AI automation engineer** building **AI agents for UK accountancy practices** - workflows that chase missing client documents, flag what is missing or wrong, and draft the follow-up emails, with a human approving every send. **B.Tech Computer Science graduate** specializing in **Artificial Intelligence & Machine Learning** from BATU University (DIEMS), with deep expertise in **Generative AI**, **Multi-Agent Systems**, and **Full-Stack Development**, bridging cutting-edge research with production-ready applications.
 
-🎯 **Currently**: Open to **AI Engineering roles**, **Freelance Projects**, and **Startup Collaborations**  
+🎯 **Currently**: Building the **Missing-Docs Agent** - my flagship agent that turns a folder of client documents into a checklist of what is still missing, then drafts the chase email. Open to **AI automation projects** and **pilots with UK accountancy firms**  
 🏆 **Achievement**: Won **Smart India Hackathon** (College Level) with an AI-powered Legal Assistant System  
 🧠 **Thesis**: Built a Multi-Agent AI System using LLMs & RAG for workflow automation  
 🌱 **Learning**: Advanced MLOps, Agentic RAG, and Production AI Systems  
@@ -150,6 +150,34 @@ I'm a **B.Tech Computer Science graduate** specializing in **Artificial Intellig
 
 <div align="center">
 
+### 📄 Missing-Docs Agent (Flagship)
+**🚩 AI document-chasing for UK accountancy practices | Synthetic-data prototype**
+
+[![Live Project Page](https://img.shields.io/badge/Live_Project_Page-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://themojtabajaveed.netlify.app/missing-docs-agent/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=google-chrome&logoColor=white)](https://themojtabajaveed.netlify.app/)
+
+**The Problem**: UK accountancy practices lose hours every week chasing clients for missing bank statements, invoices and receipts - and half the documents that do arrive are the wrong year, the wrong client, or not business documents at all.
+
+**My Solution**: An AI agent that reads a client document folder, extracts the key fields, flags what is missing or wrong, and drafts a specific, polite chase email - with a human approving every send. Nothing goes out automatically.
+
+**🔧 Technical Stack**:
+- **LLMs**: Google Gemini with a multi-provider failover chain (Gemini → backup key → Groq) and circuit breaking
+- **Validation**: Companies House API for counterparty checks
+- **Database**: Supabase
+- **Dashboard**: Streamlit review queue with human approve/edit
+- **Language**: Python
+
+**📊 Measured accuracy (post-fix evaluation, 10 October 2026)**:
+- **53 labelled synthetic documents**, including 8 image documents
+- ✅ **100%** document type, document date, and total extraction
+- ✅ **93.9%** counterparty extraction
+- ✅ **100%** issue detection (missing / wrong-year / wrong-client flags)
+- ⚠️ OCR-noise category: all fields correct on 4 of 7 documents (57%) - the known weak spot
+
+*Test-set results on synthetic data - not a real-client study or a guarantee of production accuracy. Full write-up on the [project page](https://themojtabajaveed.netlify.app/missing-docs-agent/). Source repo is private while in development.*
+
+---
+
 ### 🤝 Multi-Agent Workflow Automation System
 **🎯 Final Year Thesis Project | Production-Ready AI System**
 
@@ -251,7 +279,7 @@ I'm a **B.Tech Computer Science graduate** specializing in **Artificial Intellig
 class MojtabaSiddiqui:
     def __init__(self):
         self.name = "Mojtaba Siddiqui"
-        self.role = "AI Engineer | Full-Stack Developer"
+        self.role = "AI Automation Engineer - AI agents for UK accountancy practices"
         self.location = "Hyderabad, India"
         self.education = "B.Tech CSE (AI/ML) @ BATU University"
         
@@ -264,7 +292,7 @@ class MojtabaSiddiqui:
                 "Diffusion Model Fine-tuning"
             ],
             "building": [
-                "Multi-Agent Workflow Automation Platform",
+                "Missing-Docs Agent - document-chasing AI for UK accountancy practices",
                 "AI-Powered Newsletter Generator",
                 "Stable Diffusion API Service",
                 "LLM Fine-tuning Framework"
@@ -426,6 +454,6 @@ Whether you need an intelligent chatbot, a multi-agent automation system, a RAG-
 
 <div align="center">
 
-**Last Updated**: October 2025 | **Made with** ❤️ by Me
+**Last Updated**: October 2026 | **Made with** ❤️ by Me
 
 </div>
