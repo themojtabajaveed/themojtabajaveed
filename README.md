@@ -371,7 +371,7 @@ Whether you need an intelligent chatbot, a multi-agent automation system, a RAG-
 
 [![Email Me](https://img.shields.io/badge/Email-mojtaba.javeed@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mojtaba.javeed@gmail.com)
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+91_7887651506-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917887651506)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+91_9699651506-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919699651506)
 
 **💰 Competitive Rates | 🚀 Fast Turnaround | ✅ Production-Quality Code**
 
